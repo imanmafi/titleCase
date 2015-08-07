@@ -1,13 +1,22 @@
-**Attention - During github push had some issues that were taken to Debbie and Chris to fix, and we had to re-push and that is why there is only one commit showing(although there are many. Please confirm/verify with Debbie and Chris.
+**Attention - During github push had some issues that were taken to Debbie and Chris to fix, and we had to re-push and that is why there is only one commit showing(although there are many. Please confirm/verify with Debbie and Chris.**
 
 
 Title Case Epicodus Friday Project 8-7-2015
+
 Description
+
 Converts any user entered text into the proper title case per the "Beowulf" example in class
+
 Setup
+
 Deployed on Heroku at link: https://sheltered-sands-6478.herokuapp.com/
+
+
 Language
 Ruby
+
+
+
 Legal
 Copyright (c) 2015 
 This software is licensed under the MIT license.
