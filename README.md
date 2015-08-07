@@ -1,4 +1,4 @@
-**Attention - During github push had some issues that were taken to Debbie and Chris to fix, and we had to re-push and that is why there is only one commit showing(although there are many. Please confirm/verify with Debbie and Chris.**
+**Attention - During github push had some issues that were taken to Debbie and Chris to fix, and we had to re-push and that is why there is only one commit showing(although there were many). Please confirm/verify with Debbie and Chris.**
 
 
 Title Case Epicodus Friday Project 8-7-2015
